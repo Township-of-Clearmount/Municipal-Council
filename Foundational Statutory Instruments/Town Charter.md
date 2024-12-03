@@ -11,7 +11,7 @@
 ## Preamble
 We, the People of the Township of Clearmount, adopt this Charter in order to secure the benefits of efficient self government and otherwise promote our common welfare. We do so to enable elected and appointed officers to meet the social, economic, and environmental needs of the People.
 
-## ARTICLE I - INCORPORATION AND JURISDICTION
+## Article I - Incorporation and Jurisdiction
 
 ### Section 100 - Jurisdiction and Territories
 The geographic region of the Minecraft World and all other dimensions within the Minecraft Server are within the limits of the Township of Clearmount.
@@ -73,7 +73,7 @@ A person must not be put in jeopardy of life or liberty more than once for the s
 #### Citizenship; Status of a Citizen
 All citizens of the township, resident in this township, are hereby declared citizens of this township; and it is the duty of the legislature to enact such laws as will protect them in the full enjoyment of the rights, privileges, and immunities due to such citizenship. The social status of a citizen must not be the subject of legislation.
 
-## ARTICLE III - Executive Branch
+## Article III - Executive Branch
 
 ### Section 300 - The Office of the Mayor
 The Mayor is the head of the Township government, and is responsible for the passing or vetoing of ordinances passed by the Town's Council. The Mayor oversees the Town's Council’s meetings and is the Presiding Officer of the Town's Council. 
@@ -102,7 +102,7 @@ The Town’s Attorney term is for two (2) months, and therefore, elections for s
 #### Recall of the Town Attorney
 The Clearmount Town Attorney serves at the pleasure of the people, and may be recalled with a vote of no confidence passed by the Town's Council for neglect of duties, incompetence, lack of fitness, or violating the Town Charter.
 
-## ARTICLE IV - Legislative Branch
+## Article IV - Legislative Branch
 
 ### Section 400 - The Town's Council
 The governing body of the Town is the Town's Council, where it is composed of all those who reside within the Town. 5 Residents, Presiding Officer included, constitute a quorum to conduct any business other than moving for adjournment or to compel attendance.
@@ -119,7 +119,7 @@ The Town's Council shall attempt to meet on a weekly basis to conduct the busine
 ### Section 404 - The Journal of Record
 A Journal of Record must be maintained by the Presiding Officer of the Town's Council, or any clerk delegated with the responsibility of doing so. The Journal of Record must document all Councilors in attendance and their votes on every item on the agenda.
 
-## ARTICLE V - Judicial Branch
+## Article V - Judicial Branch
 
 ### Section 500 - The Judicial Branch
 The Judicial Branch of the town is the Small Claims Court Of Clearmount.
@@ -136,7 +136,7 @@ The Court is responsible for the admission, regulation, and suspension of attorn
 ### Section 504 - Judicial Authorizations
 The Court has the authority to issue warrants for the arrest of individuals and for the search of property in accordance with law. Judges may set conditions for the execution of warrants, including time limitations and requirements for law enforcement to announce their presence, unless otherwise specified in the warrant. The Court must maintain a record of all warrants issued, including the nature of the warrant, the date of issuance, and the basis for probable cause.
 
-## ARTICLE VI - DISTRICT ATTORNEY
+## Article VI - District Attorney
 
 ### Section 600 - Functions of the District Attorney
 It is an essential function of the District Attorney to:
@@ -172,7 +172,7 @@ No other person or agency is permitted to conduct litigation in the name of Clea
 ### Section 607 - Intervention Rights of the District Attorney
 The District Attorney may intervene by right in any matter before any court which the Town or its people have interest in.
 
-## ARTICLE VII - THE CLEARMOUNT POLICE DEPARTMENT
+## Article VII - Clearmount Police Department
 
 ### Section 700 - Powers and Responsibilities of the Clearmount Police Department
 The Clearmount Police Department serves as the primary law enforcement agency within the Township of Clearmount. It is an essential function of the Clearmount Police Department to:
@@ -197,7 +197,7 @@ The Clearmount Police Department shall uphold the principles of transparency and
 <br>(d) internal policies, and;
 <br>(e) investigation reports;
 
-## ARTICLE VIII - THE DEPARTMENT OF PUBLIC WORKS
+## Article VIII - Department of Public Works
 
 ### Section 800 - The Clearmount Department of Public Works
 The Clearmount Department of Public Works shall serve as the primary department for maintaining the Town's infrastructure, led by the Director of Public Works It is an essential function of the Department of Public Works to:
@@ -225,7 +225,7 @@ The Department of Public Works shall be responsible for the transportation syste
 <br>(e) airports 
 <br>(f) bridges.
 
-## ARTICLE IX - THE CLEARMOUNT LIBRARY
+## Article IX - Clearmount Library
 
 ### Section 900 - Clearmount Town Library
 The town library shall hereafter be known as the Clearmount Town Library and shall be directed and governed by the Head Librarian, also known as koala4lif.
@@ -242,7 +242,7 @@ The Master Librarian shall have the duties and responsibilities which include, b
 ### Section 902 - Transparency
 The Head Librarian will be responsible for releasing any and all works in the French and English language.
 
-## ARTICLE X - THE CLEARMOUNT VOLUNTEER FIRE DEPARTMENT
+## Article X - Clearmount Volunteer Fire Department
 
 ### Section 1000 - The Clearmount Volunteer Fire Department
 Clearmount Volunteer Fire Department is the primary fire and rescue department in the Town, responsible for reducing residents from loss of life in the event of emergencies and helping prevent and extinguish unlawful fires throughout the Town.
@@ -256,7 +256,7 @@ The Clearmount Volunteer Fire Department will draft the Town Fire Code, to crimi
 ### Section 1002 - Fire Chief Nomination
 The Clearmount Fire Chief is nominated by the Mayor, and with the advice and consent of the Town's Council who must vote in a simple majority in affirmation for confirmation. The Clearmount Fire Chief shall serve at the pleasure of the Mayor.
 
-## ARTICLE XI - SERVER ADMINISTRATION (ADMIN MANDATED)
+## Article XI - Server Administration (Admin Mandated)
 
 ### Section 1100 - Composition
 Server Administrators are a group of individuals chosen by Server Owner Stanlabs with specific duties and responsibilities, responsible for management and upkeep of the community.
@@ -278,7 +278,7 @@ The Server Administration shall be in charge of citizenship of server members
 A Server Administrator, as designated by Stanlabs, shall control and maintain a commission entitled the “Clearmount Election Commission,” which shall have the duty of managing, in any sense, the township's elections.
 
 
-## ARTICLE XII - CHARTER AMENDMENTS (ADMIN MANDATED)
+## Article XII - Charter Amendments (Admin Mandated)
 
 ### Section 1200 - Amendment of the Town Charter
 The Town Charter may be amended through resolution with a simple majority of the Town’s Council in favor, and ratified by the People in a referendum with favorable result
