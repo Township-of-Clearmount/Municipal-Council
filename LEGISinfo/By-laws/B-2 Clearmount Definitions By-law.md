@@ -1,12 +1,12 @@
 # B-2 Clearmount Definitions By-law
 
-**A By-law to Define the Jurisdiction of the Township Of Clearmount**
+**A By-law to Define the Jurisdiction of the Township of Clearmount**
 
 *As amended, on the floor*
 
 *Adopted 2 December 2024*
 
-*Last revised 2 December 2024*
+*Last revised 3 December 2024*
 
 ---
 
@@ -23,7 +23,7 @@ To define the jurisdiction of the township’s services, and begin maintenance a
 
 5. “District of Yellowfields“ shall be defined as the land within the red square.
 6. “District of Downtown” shall be defined as the land within the blue square.
-7. “District of Harrison” shall be defined as the land within the green square.
+7. “District of Birchland” shall be defined as the land within the green square.
 8. “Department of Public Works” as defined under Section 800 of the Clearmount Charter is considered a municipal department.
 9. The Department of Public Works shall be led by the Director of Public Works as defined under Section 801 of the Clearmount Charter. All responsibilities pertaining to zoning shall fall under the Office of the Director’s jurisdiction.
 10. “Clearmount Transit Authority” shall be defined as a subsidiary of the Department of Public Works, and shall include all duties listed under Section 803 of the Clearmount Charter.
