@@ -1,8 +1,13 @@
+> [!note]
+> The Sitting Rules are now archived. The [Standing Orders](https://github.com/Township-of-Clearmount/Municipal-Council/blob/main/Procedural%20Info/Standing%20Orders.md) have replaced the Sitting Rules pursuant to [a motion (M-2)](https://github.com/Township-of-Clearmount/Municipal-Council/blob/main/LEGISinfo/Motions/M-2%20Motion%20to%20adopt%20Standing%20Orders%20to%20replace%20all%20current%20Sitting%20Rules.md) adopted on 12 December 2024
+
 # Sitting Rules
 
 *Adopted 30 November 2024*
 
 *Last revised 30 November 2024*
+
+*Archived as of 12 December 2024*
 
 ---
 
