@@ -156,7 +156,7 @@ The Presiding Officer may bring the attention of the Council to any number of st
 At each session, each member may rise to be recognized for not more than one minute to ask questions to the mayor, a public office holder, or a statutory officer on any matters coming within the administrative responsibilities of government.
 
 ### 31. Introduction of bills.
-(1) At this stage, a sponsor of a bill not eligible for consideration under Standing Order 28 may introduce said bill pursuant to a motion for leave adopted on unanimous consent.
+(1) At this stage, a bill not eligible for consideration under Standing Order 28 may introduce said bill pursuant to a motion for leave adopted on unanimous consent.
 
 (2) The introduction of each bill begins with the Presiding Officer reading the full text of the bill at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
@@ -165,7 +165,7 @@ At each session, each member may rise to be recognized for not more than one min
 (6) Following the sponsor's statement, or in the absence of the sponsor's statement, the Council will proceed to debate on the bill. 
 
 ### 32. Introduction of substantive motions.
-(1) At this stage, a mover of a substantive motion not eligible for consideration under Standing Order 29 may introduce said motion pursuant to a motion for leave adopted on unanimous consent.
+(1) At this stage, a substantive motion not eligible for consideration under Standing Order 29 may introduce said motion pursuant to a motion for leave adopted on unanimous consent.
 
 (2) The introduction of each substantive motion begins with the Presiding Officer reading the full text of the motion at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
