@@ -1,6 +1,6 @@
 # M-2 Motion to adopt Standing Orders to replace all current Sitting Rules
 
-*Adopted 11 December 2024*
+*Adopted 12 December 2024*
 
 *Last revised 11 December 2024*
 
