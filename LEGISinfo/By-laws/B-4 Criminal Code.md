@@ -1,6 +1,6 @@
 # B-4 Criminal Code
 
-**Criminal Code**
+**Criminal Code of December 2024**
 
 *Adopted 11 December 2024*
 
