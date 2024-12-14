@@ -169,9 +169,9 @@ At each session, each member may rise to be recognized for not more than one min
 
 (2) The introduction of each substantive motion begins with the Presiding Officer reading the full text of the motion at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
-(5) Following the reading of the substantive motion, its mover may be recognized to make a statement for not more than two minutes. The statement is subject to questions and comments. If there are multiple movers, the time allotted for the mover's statement is shared between all mover.
+(3) Following the reading of the substantive motion, its mover may be recognized to make a statement for not more than two minutes. The statement is subject to questions and comments. If there are multiple movers, the time allotted for the mover's statement is shared between all mover.
 
-(6) Following the mover's statement, or in the absence of the sponsor's statement, the Council will proceed to debate on the substantive motion. 
+(4) Following the mover's statement, or in the absence of the sponsor's statement, the Council will proceed to debate on the substantive motion. 
 
 ### 33. Adjournment proceedings.
 (1) Adjournment proceedings must not extend longer than five minutes.
