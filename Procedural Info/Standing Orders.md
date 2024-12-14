@@ -1,8 +1,8 @@
-# Standing Orders
+ # Standing Orders
 
 *Adopted 12 December 2024*
 
-*Last revised 11 December 2024*
+*Last revised 14 December 2024*
 
 ---
 
@@ -15,6 +15,9 @@ In all cases not provided for hereinafter, or by other order of this Council, pr
 
 ### 2. Appointment of mayor.
 At the first sitting following an election, the mayor is appointed the Presiding Officer.
+
+### 2.1. Acceptable honorifics
+The mayor can be referred as one of the following honorifics: "Mayor, The Honorable, His Excellency."
 
 ### 3. Election of deputy mayor.
 (1) From time to time as necessity may arise, the mayor may nominate a member he or she considers to be qualified for the position of deputy mayor.
