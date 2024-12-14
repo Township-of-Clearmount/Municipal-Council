@@ -135,7 +135,7 @@ The Presiding Officer may bring the attention of the Council to any number of st
 
 (4) The consideration of each bill begins with the Presiding Officer reading the full text of the bill at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
-(5) Following the reading of the bill, its sponsor, if present, may be recognized to make a statement for not more than two minutes. If there are multiple sponsors, the time allotted for the sponsor's statement is shared between all sponsors.
+(5) Following the reading of the bill, its sponsor, if present, may be recognized to make a statement for not more than two minutes. The statement is subject to questions and comments. If there are multiple sponsors, the time allotted for the sponsor's statement is shared between all sponsors.
 
 (6) Following the sponsor's statement, or in the absence of the sponsor's statement, the Council will proceed to debate on the bill.
 
@@ -148,7 +148,7 @@ The Presiding Officer may bring the attention of the Council to any number of st
 
 (4) The consideration of each substantive motion begins with the Presiding Officer reading the full text of the motion at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
-(5) Following the reading of a substantive motion, its mover, if present, may be recognized to make a statement for not more than two minutes. If there are multiple movers, the time allotted for the mover's statement is shared between all movers.
+(5) Following the reading of a substantive motion, its mover, if present, may be recognized to make a statement for not more than two minutes. The statement is subject to questions and comments. If there are multiple movers, the time allotted for the mover's statement is shared between all movers.
 
 (6) Following the mover's statement, or in the absence of the mover's statement, the Council will proceed to debate on the substantive motion.
 
@@ -160,7 +160,7 @@ At each session, each member may rise to be recognized for not more than one min
 
 (2) The introduction of each bill begins with the Presiding Officer reading the full text of the bill at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
-(5) Following the reading of the bill, its sponsor may be recognized to make a statement for not more than two minutes. If there are multiple sponsors, the time allotted for the sponsor's statement is shared between all sponsors.
+(5) Following the reading of the bill, its sponsor may be recognized to make a statement for not more than two minutes. The statement is subject to questions and comments. If there are multiple sponsors, the time allotted for the sponsor's statement is shared between all sponsors.
 
 (6) Following the sponsor's statement, or in the absence of the sponsor's statement, the Council will proceed to debate on the bill. 
 
@@ -169,7 +169,7 @@ At each session, each member may rise to be recognized for not more than one min
 
 (2) The introduction of each substantive motion begins with the Presiding Officer reading the full text of the motion at a reasonable speed and in a voice audible to all members present, unless permitted to dispense by unanimous voice.
 
-(5) Following the reading of the substantive motion, its mover may be recognized to make a statement for not more than two minutes. If there are multiple movers, the time allotted for the mover's statement is shared between all mover.
+(5) Following the reading of the substantive motion, its mover may be recognized to make a statement for not more than two minutes. The statement is subject to questions and comments. If there are multiple movers, the time allotted for the mover's statement is shared between all mover.
 
 (6) Following the mover's statement, or in the absence of the sponsor's statement, the Council will proceed to debate on the substantive motion. 
 
@@ -197,7 +197,7 @@ Whenever the business before the Council is interrupted and later resumes during
 
 (3) If, when debate resumes, all members have given a speech on the debatable question or if no more members who have not yet given a speech on the debatable question wishes to give one, a motion “That this question be now put”  is deemed to have been adopted.
 
-### 37.1. Questions and comments during debate.
+### 37.1. Questions and comments during debate and initial statement.
 (1) During questions and comments, any member other than the member who gave a speech during debate may rise to be recognized for not more than one minute to give comments relating to the matter under consideration or ask the member who gave a speech during debate a question relating to the matter under consideration or his or her speech.
 
 (2) Following questions and comments, the member who gave a speech during debate may be recognized for not more than one minute to reply to the comments made or to answer the questions directed to him or her, and then questions and comments is to resume.
