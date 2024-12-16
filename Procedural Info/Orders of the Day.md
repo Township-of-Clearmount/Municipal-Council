@@ -1,0 +1,75 @@
+# Orders of the Day
+
+*Eastern Standard Time (UTC-05)*
+
+---
+
+## Sunday, 15 December 2024
+
+**10:00 p.m.**
+<br>
+**ROLL CALL**
+
+### ORDERS OF THE DAY
+
+**STATEMENTS BY MEMBERS**
+
+**TABLING OF DOCUMENTS**
+- 14 December 2024 – koala4life – Tabling the balance of the Consolidated Revenue Fund as of 14 December 2024
+
+**CONSIDERATION OF MAYORAL NOMINATIONS**
+
+**CONSIDERATION OF BILLS**
+- 13 December 2024 – koala4life – A By-law amending the Criminal Code
+- 14 December 2024 – RestiveSole267 – A By-law to establish salaries for public servants and their employees.
+
+**CONSIDERATION OF SUBSTANTIVE MOTIONS**
+- 14 December 2024 – RestiveSole267 – Amendment to the Standing Orders (Amend the job title of Deputy Mayor to Foreman)
+- 14 December 2024 – RestiveSole267 – Motion to establish a committee to create a government budget for the 2025-26 fiscal year
+
+**QUESTION PERIOD** 
+
+**INTRODUCTION OF BILLS**
+- 15 December 2024 – BloodTaker – Agricultural Deregulation By-law
+- 15 December 2024 – chubby222 – Slavery By-law
+- 15 December 2024 – fibsack – Tree Repopulation By-law
+- 15 December 2024 – Stanlabs – Australian Exclusion By-law
+
+**INTRODUCTION OF SUBSTANTIVE MOTIONS**
+- 15 December 2024 – fibsack – Impeachment of fardback19 from position of Mayor
+
+**ADJOURNMENT PROCEEDINGS**
+
+---
+
+## Friday, 13 December 2024
+
+**11:55 p.m.**
+<br>
+**ROLL CALL**
+
+### ORDERS OF THE DAY
+
+**STATEMENTS BY MEMBERS**
+
+**TABLING OF DOCUMENTS**
+
+**CONSIDERATION OF MAYORAL NOMINATIONS**
+
+**CONSIDERATION OF BILLS**
+- 11 December 2024 – fardback – A second By-law for granting certain sums of money for the municipal public administration
+- 12 December 2024 – koala4life – A By-law amending the Prohibited and Restricted Items By-law
+
+**CONSIDERATION OF SUBSTANTIVE MOTIONS**
+
+**QUESTION PERIOD** 
+
+**INTRODUCTION OF BILLS**
+- 13 December 2024 – koala4life – A By-law amending the Criminal Code
+
+**INTRODUCTION OF SUBSTANTIVE MOTIONS**
+- 13 December 2024 – Luso – Amendment to the Standing Orders
+
+**ADJOURNMENT PROCEEDINGS**
+
+---
