@@ -4,7 +4,7 @@
 
 ---
 
-## Sunday, 15 December 2024
+## Tuesday, 17 December 2024
 
 **10:00 p.m.**
 <br>
@@ -22,21 +22,29 @@
 **CONSIDERATION OF BILLS**
 - 13 December 2024 – koala4life – A By-law amending the Criminal Code
 - 14 December 2024 – RestiveSole267 – A By-law to establish salaries for public servants and their employees.
-
-**CONSIDERATION OF SUBSTANTIVE MOTIONS**
-- 14 December 2024 – RestiveSole267 – Amendment to the Standing Orders (Amend the job title of Deputy Mayor to Foreman)
-- 14 December 2024 – RestiveSole267 – Motion to establish a committee to create a government budget for the 2025-26 fiscal year
-
-**QUESTION PERIOD** 
-
-**INTRODUCTION OF BILLS**
 - 15 December 2024 – BloodTaker – Agricultural Deregulation By-law
 - 15 December 2024 – chubby222 – Slavery By-law
 - 15 December 2024 – fibsack – Tree Repopulation By-law
 - 15 December 2024 – Stanlabs – Australian Exclusion By-law
+- 16 December 2024 – fibsack – Stand Your Ground By-law
+- 16 December 2024 – koala4life – A By-law to amend the Town Charter
+- 16 December 2024 – koala4life – Pricing Adjustment By-law
+- 16 December 2024 – koala4life – Public Service Employment By-law
+- 16 December 2024 – koala4life – Financial Administration By-law
+
+**CONSIDERATION OF SUBSTANTIVE MOTIONS**
+- 14 December 2024 – RestiveSole267 – Amendment to the Standing Orders (Amend the job title of Deputy Mayor to Foreman)
+- 14 December 2024 – RestiveSole267 – Motion to establish a committee to create a government budget for the 2025-26 fiscal year
+- 15 December 2024 – fibsack – Impeachment of fardback19 from position of Mayor
+- 15 December 2024 – fardback19 – Motion to allow a convention to rewrite the Clearmount Charter
+- 15 December 2024 – Stanlabs – Motion to Prohibit Firearms and Explosive During Council Sessions
+- 16 December 2024 – fardback19 – Motion to form an ad-hoc committee
+
+**QUESTION PERIOD** 
+
+**INTRODUCTION OF BILLS**
 
 **INTRODUCTION OF SUBSTANTIVE MOTIONS**
-- 15 December 2024 – fibsack – Impeachment of fardback19 from position of Mayor
 
 **ADJOURNMENT PROCEEDINGS**
 
