@@ -1,4 +1,4 @@
-# Orders of the Day
+# Orders of the Day / Order and Notice Paper
 
 *Eastern Standard Time (UTC-05)*
 
@@ -43,6 +43,7 @@
 **QUESTION PERIOD** 
 
 **INTRODUCTION OF BILLS**
+- 17 December 2024 – fibsack – Train and Transit Infrastructure Aesthetic By-law
 
 **INTRODUCTION OF SUBSTANTIVE MOTIONS**
 
