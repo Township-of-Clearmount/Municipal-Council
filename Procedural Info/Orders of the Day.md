@@ -4,9 +4,9 @@
 
 ---
 
-## Tuesday, 17 December 2024
+## Wednesday, 18 December 2024
 
-**10:00 p.m.**
+**5:50 p.m.**
 <br>
 **ROLL CALL**
 
@@ -39,11 +39,13 @@
 - 15 December 2024 – fardback19 – Motion to allow a convention to rewrite the Clearmount Charter
 - 15 December 2024 – Stanlabs – Motion to Prohibit Firearms and Explosive During Council Sessions
 - 16 December 2024 – fardback19 – Motion to form an ad-hoc committee
+- 17 December 2024 – fibsack – Train and Transit Infrastructure Aesthetic By-law
 
 **QUESTION PERIOD** 
 
 **INTRODUCTION OF BILLS**
-- 17 December 2024 – fibsack – Train and Transit Infrastructure Aesthetic By-law
+- 18 December 2024 – fardback19 – A By-law amending the Criminal Code (Section 1.04)
+- 18 December 2024 – fibsack – Judicial Review By-law
 
 **INTRODUCTION OF SUBSTANTIVE MOTIONS**
 
