@@ -20,7 +20,6 @@
 **CONSIDERATION OF MAYORAL NOMINATIONS**
 
 **CONSIDERATION OF BILLS**
-- 13 December 2024 – koala4life – A By-law amending the Criminal Code
 - 14 December 2024 – RestiveSole267 – A By-law to establish salaries for public servants and their employees.
 - 15 December 2024 – BloodTaker – Agricultural Deregulation By-law
 - 15 December 2024 – chubby222 – Slavery By-law
