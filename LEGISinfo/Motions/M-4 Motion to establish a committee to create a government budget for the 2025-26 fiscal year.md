@@ -1,7 +1,5 @@
 # M-4 Motion to establish a committee to create a government budget for the 2025-26 fiscal year
 
-**Establishing a committee to create a government budget for the 2025-26 fiscal year**
-
 *As amended, on the floor*
 
 *Adopted 18 December 2024*
