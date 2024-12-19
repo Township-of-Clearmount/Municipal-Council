@@ -1,7 +1,5 @@
 # M-3 Amendment to the Standing Orders
 
-**Amendment to the Standing Orders**
-
 *As amended, on the floor*
 
 *Adopted 14 December 2024*
