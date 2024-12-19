@@ -4,6 +4,39 @@
 
 ---
 
+## DATE 2024
+
+**0:00 p.m.**
+<br>
+**ROLL CALL**
+
+### ORDERS OF THE DAY
+
+**STATEMENTS BY MEMBERS**
+
+**TABLING OF DOCUMENTS**
+
+**CONSIDERATION OF MAYORAL NOMINATIONS**
+
+**CONSIDERATION OF BILLS**
+
+- 16 December 2024 – koala4life – Public Service Employment By-law
+- 17 December 2024 – fibsack – Train and Transit Infrastructure Aesthetic By-law
+- 18 December 2024 – fardback19 – A By-law amending the Criminal Code (Section 1.04)
+- 18 December 2024 – fibsack – Judicial Review By-law
+- 
+**CONSIDERATION OF SUBSTANTIVE MOTIONS**
+
+**QUESTION PERIOD** 
+
+**INTRODUCTION OF BILLS**
+
+**INTRODUCTION OF SUBSTANTIVE MOTIONS**
+
+**ADJOURNMENT PROCEEDINGS**
+
+---
+
 ## Wednesday, 18 December 2024
 
 **5:50 p.m.**
