@@ -1,4 +1,4 @@
-# M-6 Motion to form an ad-hoc committee
+# M-6 Motion to form an ad-hoc committee (Rewriting the Charter)
 
 *Adopted 18 December 2024*
 
