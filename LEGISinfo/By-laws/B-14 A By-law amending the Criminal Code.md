@@ -1,4 +1,4 @@
-# B-14 A By-law Amending the Criminal Code
+# B-14 A By-law amending the Criminal Code
 
 **A By-law amending the Criminal Code (Section 1.04)**
 
