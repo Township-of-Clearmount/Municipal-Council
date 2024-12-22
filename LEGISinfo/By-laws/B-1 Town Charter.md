@@ -136,10 +136,10 @@ The Court is responsible for the admission, regulation, and suspension of attorn
 ### Section 504 - Judicial Authorizations
 The Court has the authority to issue warrants for the arrest of individuals and for the search of property in accordance with law. Judges may set conditions for the execution of warrants, including time limitations and requirements for law enforcement to announce their presence, unless otherwise specified in the warrant. The Court must maintain a record of all warrants issued, including the nature of the warrant, the date of issuance, and the basis for probable cause.
 
-## Article VI - District Attorney
+## Article VI - Town Attorney
 
-### Section 600 - Functions of the District Attorney
-It is an essential function of the District Attorney to:
+### Section 600 - Functions of the Town Attorney
+It is an essential function of the Town Attorney to:
 <br>(a) Prosecute such offenses of the Town as they deem appropriate;
 <br>(b) Protect and safeguard the civil rights and other protections afforded to residents of the Town;
 <br>(c) Employ persons in aid of their functions and supervise litigation done by them, and organize their office’s components;
@@ -148,29 +148,29 @@ It is an essential function of the District Attorney to:
 <br>(f) Uphold and defend the Charter of Clearmount; and
 <br>(g) Take due care that the laws are faithfully executed by way of litigation, when appropriate.
 
-### Section 601 - Appointment and Authority of the Deputy District Attorney
-The District Attorney may appoint a Deputy District Attorney who is a career officer subordinate to the District Attorney. If the office of District Attorney is vacant, if they are incapacitated, or at any other time the District Attorney or the Council may deem necessary, the Deputy District Attorney may assume the duties of the District Attorney for a period of not longer than two weeks.
+### Section 601 - Appointment and Authority of the Deputy Town Attorney
+The Town Attorney may appoint a Deputy Town Attorney who is a career officer subordinate to the Town Attorney. If the office of Town Attorney is vacant, if they are incapacitated, or at any other time the Town Attorney or the Council may deem necessary, the Deputy Town Attorney may assume the duties of the Town Attorney for a period of not longer than two weeks.
 
 ### Section 602 - Legislative Proposals and Advisory Opinions
-The District Attorney may propose such ordinances or resolutions as they deem fit for consideration by the Council, and may similarly issue opinions on any pending ordinance or resolution.
+The Town Attorney may propose such ordinances or resolutions as they deem fit for consideration by the Council, and may similarly issue opinions on any pending ordinance or resolution.
 
-### Section 603 - Independence of the District Attorney's Office
-The Mayor must not attempt or to actually coerce, order, prohibit, interfere, or otherwise hinder the conduct of functions reserved solely to the District Attorney and their staff. The Mayor does not maintain any authority or supervision over the legal operations of the District Attorney’s Office.
+### Section 603 - Independence of the Town Attorney's Office
+The Mayor must not attempt or to actually coerce, order, prohibit, interfere, or otherwise hinder the conduct of functions reserved solely to the Town Attorney and their staff. The Mayor does not maintain any authority or supervision over the legal operations of the Town Attorney’s Office.
 
 ### Section 604 - Appointment of Investigative Officials
-The District Attorney may appoint such officials as they may deem necessary—
+The Town Attorney may appoint such officials as they may deem necessary—
 <br>(a) to detect and investigate criminal conduct or civil rights violations;
 <br>(b) to request warrants for the search or arrest of persons or property for those purposes.
 
 ### Section 605 - Delegation and Retention of Duties
-The District Attorney may delegate his or her their duties, functions, and authorities, as
+The Town Attorney may delegate his or her their duties, functions, and authorities, as
 may be required, to any of their employees.
 
 ### Section 606 - Exclusive Authority to Conduct Litigation
 No other person or agency is permitted to conduct litigation in the name of Clearmount or its people, unless by class action certified by a judge.
 
-### Section 607 - Intervention Rights of the District Attorney
-The District Attorney may intervene by right in any matter before any court which the Town or its people have interest in.
+### Section 607 - Intervention Rights of the Town Attorney
+The Town Attorney may intervene by right in any matter before any court which the Town or its people have interest in.
 
 ## Article VII - Clearmount Police Department
 
