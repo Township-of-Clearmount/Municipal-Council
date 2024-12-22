@@ -2,9 +2,9 @@
 
 **Stand your Ground By-law**
 
-*Adopted 18 December 2024*
-
-*Last revised 16 December 2024*
+| Sponsor      | Adopted             | Last Revised     |
+| ------------ | ------------------- | ---------------- |
+| fibsack      | 18 December 2024    | 16 December 2024 |
 
 ---
 
