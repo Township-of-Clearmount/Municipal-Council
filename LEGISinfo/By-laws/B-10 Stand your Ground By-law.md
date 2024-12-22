@@ -1,11 +1,8 @@
-# B-10 Stand your Ground By-law
-
-**Stand your Ground By-law**
-
 | Sponsor      | Adopted             | Last Revised     |
 | ------------ | ------------------- | ---------------- |
 | fibsack      | 18 December 2024    | 16 December 2024 |
 
+# B-10 Stand your Ground By-law
 ---
 
 1. A person who is in a dwelling or residence in which the person has a right to be has no duty to retreat and has the right to stand his or her ground and use or threaten to use:
