@@ -4,6 +4,19 @@
 
 ---
 
+## Sunday, 22 December 2024
+
+**9:20 p.m.**
+<br>
+**ROLL CALL**
+
+### ORDERS OF THE DAY
+
+**EMERGENCY BUSINESS**
+- 22 December 2024 – Fardback19 – Motion of no confidence for Town Attorney fibsack
+
+---
+
 ## Friday, 20 December 2024
 
 **11:00 p.m.**
@@ -15,33 +28,33 @@
 **STATEMENTS BY MEMBERS**
 
 **TABLING OF DOCUMENTS**
-- 18 December 2024 - Tabling the Number of Homicdes Between 15-18 December 2024
-- 19 December 2024 - Tabling the Names of Dangerous Thugs and their Gangs
-- 19 December 2024 - Tabling the Balance of the Consolidated Revenue Fund as of 19 December 2024
+- 18 December 2024 – koala4life – Tabling the Number of Homicdes Between 15-18 December 2024
+- 19 December 2024 – Stanlabs – Tabling the Names of Dangerous Thugs and their Gangs
+- 19 December 2024 – koala4life – Tabling the Balance of the Consolidated Revenue Fund as of 19 December 2024
 
 **CONSIDERATION OF MAYORAL NOMINATIONS**
-- 19 December 2024 - TradeEffect for the Chief of the Clearmount Police Department
-- 19 December 2024 - TVB326 for the Chief of the Clearmount Police Department
+- 19 December 2024 – TradeEffect for the Chief of the Clearmount Police Department
+- 19 December 2024 – TVB326 for the Chief of the Clearmount Police Department
 
 **CONSIDERATION OF BILLS**
 - 16 December 2024 – koala4life – Public Service Employment By-law
 - 17 December 2024 – fibsack – Train and Transit Infrastructure Aesthetic By-law
 - 18 December 2024 – fardback19 – A By-law amending the Criminal Code (Section 1.04)
-- 18 December 2024 - koala4life - A Safer Community By-law
-- 19 December 2024 - fibsack - Factory District Zoning and Operation By-law
-- 19 December 2024 - Fardback19 - Appropriations By-law of December 2024
+- 18 December 2024 – koala4life – A Safer Community By-law
+- 19 December 2024 – fibsack – Factory District Zoning and Operation By-law
+- 19 December 2024 – Fardback19 – Appropriations By-law of December 2024
 
 **CONSIDERATION OF SUBSTANTIVE MOTIONS**
-- 19 December 2024 - koala4life & RestiveSole267 - Happy Holidays Adjournment Motion
+- 19 December 2024 – koala4life & RestiveSole267 – Happy Holidays Adjournment Motion
 
 **QUESTION PERIOD** 
 
 **INTRODUCTION OF BILLS**
-- 20 December 2024 - fibsack - Spring Cleaning By-law
-- 20 December 2024 - Fardback19 - Clearmount Fire Code By-law
-- 20 December 2024 - BloodTaker - Clearmount Airspace Safety and Security By-law
-- 20 December 2024 - TradeEffect - Fuck Crime By-law
-- 20 December 2024 - BloodTaker - Clearmount Village Redevelopment Act
+- 20 December 2024 – fibsack – Spring Cleaning By-law
+- 20 December 2024 – Fardback19 – Clearmount Fire Code By-law
+- 20 December 2024 – BloodTaker – Clearmount Airspace Safety and Security By-law
+- 20 December 2024 – TradeEffect – Fuck Crime By-law
+- 20 December 2024 – BloodTaker – Clearmount Village Redevelopment Act
 
 **INTRODUCTION OF SUBSTANTIVE MOTIONS**
 
