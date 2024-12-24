@@ -1,11 +1,8 @@
+| Sponsor        | Adopted             | Last Revised     |
+| -------------- | ------------------- | ---------------- |
+| fardback19     | 18 December 2024    | 16 December 2024 |
+
 # B-11 A By-law to Amend the Town Charter
-
-**A By-law to Amend the Town Charter**
-
-*Adopted 18 December 2024*
-
-*Last revised 16 December 2024*
-
 ---
 
 Whereas the law regarding the passing of bills and the requirement for the mayor to sign bills passed by Council before they are enacted as by-laws, or in the alternative, veto them and enjoin the enactment of the same has been the subject of recent discussion and no definitive solution or answer has emerged,
