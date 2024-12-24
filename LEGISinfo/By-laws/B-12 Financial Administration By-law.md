@@ -1,11 +1,8 @@
+| Sponsor      | Adopted             | Last Revised     |
+| ------------ | ------------------- | ---------------- |
+| koala4life      | 18 December 2024    | 16 December 2024 |
+
 # B-12 Financial Administration By-law
-
-**Financial Administration By-law**
-
-*Adopted 18 December 2024*
-
-*Last revised 16 December 2024*
-
 ---
 
 1. There may be a Consolidated Revenue Fund established to hold the funds of the town administered by Council through an authorized agent.
