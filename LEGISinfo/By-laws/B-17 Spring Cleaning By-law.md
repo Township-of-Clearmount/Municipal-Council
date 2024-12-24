@@ -1,11 +1,8 @@
+| Sponsor      | Adopted             | Last Revised     |
+| ------------ | ------------------- | ---------------- |
+| fibsack      | 20 December 2024    | 20 December 2024 |
+
 # B-17 Spring Cleaning By-law
-
-**Spring Cleaning By-law**
-
-*Adopted 20 December 2024*
-
-*Last revised 20 December 2024*
-
 ---
 
 Whereas; creeper holes and chopped down trees have been running rampid within the town
