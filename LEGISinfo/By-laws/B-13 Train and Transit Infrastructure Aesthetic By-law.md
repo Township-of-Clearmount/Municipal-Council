@@ -1,11 +1,8 @@
+| Sponsor      | Adopted             | Last Revised     |
+| ------------ | ------------------- | ---------------- |
+| fibsack      | 20 December 2024    | 17 December 2024 |
+
 # B-13 Train and Transit Infrastructure Aesthetic By-law
-
-**Train and Transit Infrastructure Aesthetic By-law**
-
-*Adopted 20 December 2024*
-
-*Last revised 17 December 2024*
-
 ---
 
 ### Section 1. Short Title
