@@ -1,11 +1,8 @@
+| Sponsor      | Adopted             | Last Revised     |
+| ------------ | ------------------- | ---------------- |
+| fibsack      | 20 December 2024    | 19 December 2024 |
+
 # B-15 Factory District Zoning and Operation By-law
-
-**Factory District Zoning and Operation By-law**
-
-*Adopted 20 December 2024*
-
-*Last revised 19 December 2024*
-
 ---
 
 ### Section 1: Short Title
