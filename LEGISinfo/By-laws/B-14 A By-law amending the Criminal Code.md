@@ -1,6 +1,6 @@
 | Sponsor      | Adopted             | Last Revised     |
 | ------------ | ------------------- | ---------------- |
-| fardback     | 20 December 2024    | 18 December 2024 |
+| fardback19     | 20 December 2024    | 18 December 2024 |
 
 # B-14 A By-law amending the Criminal Code
 ---
