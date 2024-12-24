@@ -1,11 +1,8 @@
+| Sponsor               | Adopted             | Last Revised     |
+| --------------------- | ------------------- | ---------------- |
+| TommyToughKnuckl      | 20 December 2024    | 20 December 2024 |
+
 # B-18 Clearmount Fire Code
-
-**Clearmount Fire Code**
-
-*Adopted 20 December 2024*
-
-*Last revised 20 December 2024*
-
 ---
 
 ## Chapter 1: General Provisions
