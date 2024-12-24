@@ -1,11 +1,8 @@
+| Sponsor      | Adopted             | Last Revised     |
+| ------------ | ------------------- | ---------------- |
+| fardback19   | 20 December 2024    | 19 December 2024 |
+
 # B-16 Appropriations By-law of December 2024
-
-**Appropriations By-law of December 2024**
-
-*Adopted 20 December 2024*
-
-*Last revised 19 December 2024*
-
 ---
 
 ### PART I - INTRODUCTION AND EXPIRATION
