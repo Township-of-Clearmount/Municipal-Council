@@ -4,6 +4,47 @@
 
 ---
 
+## Thursday, 26 December 2024
+
+**10:00 p.m.**
+<br>
+**ROLL CALL**
+
+### ORDERS OF THE DAY
+
+**STATEMENTS BY MEMBERS**
+
+**TABLING OF DOCUMENTS**
+
+**CONSIDERATION OF MAYORAL NOMINATIONS**
+
+**CONSIDERATION OF BILLS**
+- 16 December 2024 – koala4life – Public Service Employment By-law
+- 20 December 2024 – BloodTaker – Clearmount Airspace Safety and Security By-law
+- 20 December 2024 – BloodTaker – Clearmount Village Redevelopment By-law
+- 21 December 2024 – koala4life – A By-law amending the Train and Transit Infrastructure Aesthetic By-law
+- 21 December 2024 – koala4life – A By-law amending the Factory District Zoning and Operation By-law
+- 21 December 2024 – koala4life – A By-law repealing the Spring Cleaning By-law
+- 21 December 2024 – koala4life – A By-law repealing the Fire Code
+- 22 December 2024 – koala4life – Land By-law
+- 22 December 2024 – Stanlabs – Amendment to the Charter
+
+**CONSIDERATION OF SUBSTANTIVE MOTIONS**
+- 22 December 2024 – fibsack – A Motion to Impeach Fardback19 from his position as Mayor
+
+**QUESTION PERIOD** 
+
+**INTRODUCTION OF BILLS**
+- 26 December 2024 – fibsack – Train Deconstruction By-Law
+- 26 December 2024 – fardback19 – Boblandia and Clearmount Treaty
+- 26 December 2024 – koala4life – Transportation Safety By-law
+
+**INTRODUCTION OF SUBSTANTIVE MOTIONS**
+
+**ADJOURNMENT PROCEEDINGS**
+
+---
+
 ## Sunday, 22 December 2024
 
 **9:20 p.m.**
